@@ -1,4 +1,4 @@
-Here is a concise `README.md` that keeps the core details and gives credit to the original project:
+HI this is a concise `README.md` that keeps the core details of this project
 
 ```markdown
 # Cyberpunk TV Launcher 🌃
