@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cyberpunk TV</string>
+    <string name="hud_status">SYS_STATUS // ONLINE</string>
+    <string name="netrunner_node">NETRUNNER // LOCAL_NODE: 127.0.0.1</string>
+</resources>
